@@ -1,0 +1,6 @@
+2023-07-19 11:02:50.968  INFO 19252 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 19252 (started by kent in D:\projects\spring-lab\portal)
+2023-07-19 11:02:50.975  INFO 19252 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-19 11:02:51.908  INFO 19252 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.158 seconds (JVM running for 1.796)
+2023-07-19 11:03:19.868  INFO 52472 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 52472 (started by kent in D:\projects\spring-lab\portal)
+2023-07-19 11:03:19.869  INFO 52472 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-19 11:03:20.795  INFO 52472 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.165 seconds (JVM running for 1.747)

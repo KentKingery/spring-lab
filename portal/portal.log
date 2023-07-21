@@ -1,0 +1,12 @@
+2023-07-18 11:58:12.253  INFO 17804 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 17804 (started by kent in D:\projects\spring-lab\portal)
+2023-07-18 11:58:12.254  INFO 17804 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-18 11:58:13.103  INFO 17804 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.063 seconds (JVM running for 1.629)
+2023-07-18 12:12:46.450  INFO 45868 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 45868 (started by kent in D:\projects\spring-lab\portal)
+2023-07-18 12:12:46.451  INFO 45868 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-18 12:12:47.432  INFO 45868 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.222 seconds (JVM running for 1.799)
+2023-07-18 13:37:33.064  INFO 48648 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 48648 (started by kent in D:\projects\spring-lab\portal)
+2023-07-18 13:37:33.065  INFO 48648 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-18 13:37:33.953  INFO 48648 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.131 seconds (JVM running for 1.713)
+2023-07-18 13:43:19.733  INFO 53508 --- [main] i.a.s.portal.PortalApplicationTests      : Starting PortalApplicationTests using Java 11.0.19 on MSIOFFICE with PID 53508 (started by kent in D:\projects\spring-lab\portal)
+2023-07-18 13:43:19.735  INFO 53508 --- [main] i.a.s.portal.PortalApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-07-18 13:43:20.732  INFO 53508 --- [main] i.a.s.portal.PortalApplicationTests      : Started PortalApplicationTests in 1.249 seconds (JVM running for 2.024)
