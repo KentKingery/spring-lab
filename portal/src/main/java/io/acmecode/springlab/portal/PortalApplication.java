@@ -17,7 +17,7 @@ public class PortalApplication {
 		Timer timer = new Timer("Timer");
 		
 		long delay = 1000L;
-		timer.schedule(new HeartbeatTask(), delay, 5000L);
+		timer.schedule(new HeartbeatTask(), delay, 30000L);
 
 		logger.info("Starting Portal");
 		SpringApplication.run(PortalApplication.class, args);
